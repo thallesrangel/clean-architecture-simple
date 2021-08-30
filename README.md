@@ -27,6 +27,15 @@
     "email": "rangelthr@gmail.com"
 }
 ```
-### Get User - URL: localhost:8000/users
 
-## Get User By ID - URL: RL: localhost:8000/users/1
+### Get User
+
+```
+    localhost:8000/users
+```
+
+### Get User By ID
+
+```
+    localhost:8000/users/1
+```
